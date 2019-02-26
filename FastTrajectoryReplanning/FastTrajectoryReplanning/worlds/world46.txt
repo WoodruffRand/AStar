@@ -1,0 +1,101 @@
+   B B         B    B     B        B   B B       B        B B          B  B            B         B   
+B        B   B     B     BBB       B            BBB     B        B          B          B    B    B   
+     B   BB        B                 B      B               B       B    B           B   BB          
+  BB  BB B   B B     B                B    B B  B    B  B  B      B        B B B                     
+BB        B B  B    B  B          B B  B  BB  B       BB  B B        B             B B  B     BB    B
+B      BB B   B B                   B    B BB B                B    B   B     B    B BB              
+             BB B         BB            BB  BB      B  B      B BB   BB  B     B   B         B    B B
+B   B BB                 B         B  B        B B   B     BB  B B                   B  BB       BB  
+    B   B     B    B     B              B B    B   B   B       B       BB  B    B      B    B        
+        B B    BBB           B  B         B        B          BB   B   B B  B     B           B  B   
+B       BBB BB B      B  B BB        B     B         B   B B      B     B        B       BB B B B    
+ BB      B                 B      B         B   B  B      B B                     B  B  B          B 
+ B B B     B B    B B           B  B        B B B  B          B    B B       B  BB   B    B B  B     
+    B     BB  B B             B         B         B  BB  B     B B B  B   B     B        B  B  B     
+   B    B B   B  B      B    B           B  B   B    B   B  B  B B B        BB       B        B B   B
+                 B       BB        B   BB  B B               B   BB  B             B  BB  B      B   
+B    BB B   B      B        B               B      B        B       B   B B       BB  B    B  BB  B  
+B        B              B B      B   B  B     B        B    B BBB B   B  B B           B B   BBB B   
+           BB BB B      B  BB   BB     B             B BB B  B B B  B        BB   B       B   B B B  
+B            B        B  B  B   B       B           B   B   B  B        BB  B  B B BB          B    B
+    B        B   B  BB  B    BB     BBB           B     B B     B         B B   B      B B           
+ B        B      B          B      B         B      B B           B  B  BB                           
+B     B      B  B  B   B            B                  B        B       BB     B  BB B              B
+B    BB                  B  B B                             BB B   B         B          B     B   B  
+    B   B   B  BB        B       B  B            B   B  B      B      B B                   B B   B  
+  B B        B   B B      B  BBB BB    B            B   B BB    BB               B    B    B  B B B B
+     B  B B          B BB    B   BB    B     BB    B  B B          B BBB                    BB B     
+B    B             B  B B     B B B       BB     B           BB B      B    B   B    B  BB    BB     
+      B B   B   B            B    B BBB          B   BB   B     B      B         B          B    BB  
+B  B        B   B       B B     B B B  B   BBBB B BB         BBB        BBB       BBBB  B    B  B   B
+B      BB  B B      B          B          B     B    B             B B B BB B          B       B     
+    B B      BB         BB  B               BB     B  B      BB B           B      B    B     B   B  
+   B     B BB B  B        B       B       B      BBB     B      B    B           B        B          
+   B         B B   B       B    B         B      BB       B                BB        B B     B       
+     A         B  B       B B            B   B    B B B B  BB B B                  B    B   B      B 
+  B       B   B                      B         B B       BB    BB   B BB   B   B      B B B         B
+   B          BB  B  B  B B B    B     B   B      B   B     B B         B BB   B                     
+ B      BB        B      B     B               B        B  B   B                   B B     B  B      
+ B   B   B    B       B       B B BB     B   BB  B   B    B   B    B BB     BB            B       B  
+            B BB         BB  B      B   B         B BB    B           B     B             B        B 
+  B      BB            BB B     B   B  B      B     B B   B B B  B  B       B    B    B      B    B  
+    B BB B  B    B B      BB     B  BB       BBB   B B B     BB     B   B         B    B     BB B    
+     B B   B               B                         B    B  B       B     B      BBB           B    
+           B      B      B  BB    B       B   B   B         B     B   B BB B      BB    BB BB     B B
+                 B BBB       B              B      B    B B       B  BB    B    B      BB     B B   B
+   B         B      B  B   BB B     BB    B                  B    B          B B      B   B         B
+B       B BB    BB         BB     B              B   B B         B   BB B B   B       B             B
+       B B     B    B         B BB B                   B  B      B            B   BB   B B  BBBB     
+B         B          B       B B     B B    B  B                       BB  B B B         B         BB
+          B   B          B  B    B      B            B   B      B         B                B   BB    
+            B  B  B   B   B B      B   B            BB  B     BB B          B  B       B       BBB BB
+  B   B   B B       B  B   B BB  B     B          B BBB      B    B  B               B B  B   BBBB   
+B       BBB  B          B      BB BB    B       B B   BB   BB B  BB       BB  B      B   B   B    B  
+      B       B  B BB  BBB B  BBB B  B   B   BB  B BB   B     B    BB                  B      B B    
+    B  B     B        B          B BB              B   BB B  B      B  B B            B    B         
+ B                       B  BB       BBB   B         B    B   BB   B                  BB      BB    B
+       B  BB   B   B      BB    B      B       B             B     BBB     B   B                B B  
+B B          B   B      B               B         BB   B BB B       B   BBBB     B               B   
+       B   B               BB    B  B  B B B        B   B      B   B            BBB    BB            
+    B  BB      B B     B    B         B B   B  B      BB                 B   B   B  B    BBBBBB      
+   BB  B    B   B  B B  B     BBB  B  B B B  B   B  B        B            BBB  B          B         B
+   B     B            BB          B   BB         B  B B  B B   BB  B B         B     B  B B     B  B 
+ B B     B       B        B    B       BBB   B B    B   B  BB   B                  B             BB  
+  B          B   B      B      B   B    B      B   B  BB B         B     B       B         BB B   B  
+ B      BBB              B       B                BBB       B                B  B  B B   B  B    B BB
+    B       B  B     B      BB  B             B B BBB   B        BB    B   B      B   B  B           
+BB BB      B      B              B        B      BBB  B     B    B     B    B     B   B  B   B       
+B    B B      BB          B    B   BB  BB B             B B      B       B        BB       BB    B   
+ B                 B             B   B     BB                    B B B  B    B                       
+           B  B  B B          B BBBB        B  B             BB   B                       B  BBB     
+      BB     B  BBBB  B B B                  B             B            B  B   B      B        B  BB 
+    B     B  BBB     B  B  B  BB    B       B       B   B  B      BBB   B    B       B   BB BBB      
+        B  B B   B  B  BB   BB     B                          B   BBB   B    B           BB          
+   B   B     B                     B    B             B   BB   B          B   B B  B  B            B 
+B    BB    B              B          BB  B   B   B  B B  B B     B B  B                  B     B B BB
+B            B         B   B      B       B    BB           B    B B                   B     B B B   
+          B     B  B    BB  B B    B  B       B  B        B  B     BBB        B      B               
+ BB  B   B     B B   B           B BB  B    B B   B         B       B   B    B    B B    B      B B B
+   B    B   BB    B          BB  B   B BB       B    B  B  B B       B       B       B        BB  B  
+ B                  B  B                B           BB   B        B   B      B  B         BBB B      
+         BB BB  B                     B     B B  BB    BBBB   B              B         B  B   B    T 
+      B            B B        B      B  B            B      B                  B    BB   B         BB
+        B                   B   B    B                         B      B B     B  B    B B   B   BB B 
+BB B  B       B    B    B  B      B B     BB  B B         BB  B                  BB B             B  
+    B B     B         B  BB   B B       B B   B   B  BB               B  B      B         B       B  
+  B         B   B      B   BB B  B    B      B  BB    B   B    BB                 B B   B    B  BB   
+ B  B    B B        B  BB       B B   BB          B  B         B     B     B    B B  B              B
+ B  BB             B                      B  B   B       BB               B      B         B B   B B 
+  BB         BB            B   B              B B B B        B      B BB            B    B         BB
+    BB    B    BB  B                  BB          B B  B    B    B       BB   B   B         B  B     
+  B        BB     B      B BB                B        BB  BB               B B   B  B      B   BBB   
+B     B     B        B  BB   B BB     B    B           B  B  BBBB  B     BB   BB             B       
+B    B   B  B      B B  B  B        B        BB   B B   BB      B BB  B B   B BBB      B B   BB   B B
+    B    B   B     BB   B BBB  B   B B         B     B   B  B B      B B             B    B    B     
+B         B B       B        BB    BB   BBB                       BB   B        B   B B              
+  BBB      BB    B    B            B   B             B  B                B B B  B   B     B          
+    BB        B       B              BBB  B BB                B   B        B  B        B   B   B     
+ B    BBB     B          B  B BBB        B               B  B B      B   B     BBBB      B B         
+BBB     B   B       B   B    B      B    BB           B B     BB B  B  B   B   B      B     BB      B
+B  B   B    B B B   BB                   B     BB BBB            B   B  B                    B       
+         B  B         B               B          B BB        B      B       B  BB        B           
